@@ -6,5 +6,3 @@
   
 # 解决方案
 <img width="829" height="1053" alt="image" src="https://github.com/user-attachments/assets/a4eda063-c128-4b8c-8251-e9406a3dddd9" />
-
-# 赛题报告
